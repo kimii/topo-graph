@@ -1,7 +1,7 @@
 /**
  * DESCRIPTION: nodes's scores for topo-links based on igraph
  * AHTHOR:      kimii
- * DARE:        2019/06/04
+ * DATE:        2019/06/04
  */
 
 #include <stdio.h>
