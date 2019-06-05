@@ -1,4 +1,5 @@
-/* DESCRIPTION: nodes's scores for topo-links based on igraph
+/**
+ * DESCRIPTION: nodes's scores for topo-links based on igraph
  * AHTHOR:      kimii
  * DARE:        2019/06/04
  */
